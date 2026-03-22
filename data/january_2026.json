@@ -1,0 +1,25 @@
+{
+    "period_label": "January 2026",
+    "budget_mode": "Monthly Budget",
+    "month": "January",
+    "year": 2026,
+    "total_budget": 10000.0,
+    "savings_goal": 2000.0,
+    "borrowed_lent": 0.0,
+    "total_allocated": 10800.0,
+    "remaining": -800.0,
+    "category_spending": {
+        "Rent": 7300.0,
+        "Food": 2000.0,
+        "Transport": 1000.0,
+        "Entertainment": 500.0,
+        "Utilities": 0.0,
+        "Health": 0.0,
+        "Education": 0.0,
+        "Savings": 0.0,
+        "Miscellaneous": 0.0
+    },
+    "health_score": 55,
+    "category_count": 9,
+    "saved_at": "2026-03-11 18:04:27"
+}
